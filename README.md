@@ -1,7 +1,7 @@
 Small creature that bites
 
 I just do art, honestly!
-Working on pokerogue as a Lead artist and my own personal projects as... everything, to my dismay
+Working my own personal projects as... everything, to my dismay
 
 <!---
 TheSharkbug/TheSharkbug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
